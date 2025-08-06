@@ -1,0 +1,5 @@
+- 🌍 Real-time location sharing using WebSockets (Socket.io)
+- 🔁 Broadcasts location data to all connected users
+- 🆔 Tracks users by unique Socket IDs
+- 🚪 Notifies when a user connects or disconnects
+- 🖥️ EJS templating for dynamic frontend rendering
